@@ -29,9 +29,7 @@ public class MultipleIfElse {
 
         /*
         * &&: ca 2 deu dung
-        * ||: 1 trong 2 ddeu dung
+        * ||: 1 trong 2 deu dung
         * */
-
-
     }
 }
