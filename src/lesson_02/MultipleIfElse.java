@@ -28,8 +28,8 @@ public class MultipleIfElse {
         }
 
         /*
-        * &&: ca 2 deu dung
-        * ||: 1 trong 2 deu dung
+        * &&: dieu kien ca 2 deu dung
+        * ||: dieu kien 1 trong 2 dung la duoc
         * */
     }
 }
